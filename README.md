@@ -1,7 +1,7 @@
 # Chris Murray
 <table>
   <tr>
-    <th valign="top" width="600">
+    <th align="left" valign="top" width="600">
       <p href="https://www.linkedin.com/in/chris-murray-607aab6a">LinkedIn: www.linkedin.com/in/chris-murray-607aab6a</p>
       <p href="www.github.com/927technology">Git Hub:  www.github.com/927technology</p>
       </br>

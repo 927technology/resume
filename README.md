@@ -53,11 +53,7 @@
         width="150"
       />
       <img 
-        src="./images/oci_infrastructure-professional.png"  
-        width="150"
-      />
-      <img 
-        src="./images/oci_foundations.png"  
+        src="./images/hashicorp-certified-terraform-associate-003.png" 
         width="150"
       />
       <img 
